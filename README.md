@@ -87,8 +87,32 @@ Searching for establish connection <br/>
 <img src="https://i.imgur.com/pbj8fJB.png" height="80%" width="80%" alt="Penetration testing and Log Analysis Steps"/>
 <br />
 <br />
-Spiderfoot for gathering information <br/>
-<img src="https://i.imgur.com/ZT4RW3m.png" height="80%" width="80%" alt="Penetration testing and Log Analysis Steps"/>
+Searching for the path to generated Payload <br/>
+<img src="https://i.imgur.com/7R5ToHo.png" height="80%" width="80%" alt="Penetration testing and Log Analysis Steps"/>
+<br />
+<br />
+Getting Hash from Limacharlie <br/>
+<img src="https://i.imgur.com/OMGcEe8.png" height="80%" width="80%" alt="Penetration testing and Log Analysis Steps"/>
+<br />
+<br />
+Search for hash on virus Total <br/>
+<img src="https://i.imgur.com/moUvIEB.png" height="80%" width="80%" alt="Penetration testing and Log Analysis Steps"/>
+<br />
+<br />
+Result from Virustotal <br/>
+<img src="https://i.imgur.com/KPgb6Y3.png" height="80%" width="80%" alt="Penetration testing and Log Analysis Steps"/>
+<br />
+<br />
+Building Detection rule <br/>
+<img src="https://i.imgur.com/skWrdx9.png" height="80%" width="80%" alt="Penetration testing and Log Analysis Steps"/>
+<br />
+<br />
+Creating detection rule <br/>
+<img src="https://i.imgur.com/smeyzI0.png" height="80%" width="80%" alt="Penetration testing and Log Analysis Steps"/>
+<br />
+<br /> 
+Success of rule created <br/>
+<img src="https://i.imgur.com/Qtg0sIM.png" height="80%" width="80%" alt="Penetration testing and Log Analysis Steps"/>
 <br />
 <br />
 </p>
