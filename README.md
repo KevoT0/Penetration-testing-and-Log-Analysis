@@ -1,7 +1,7 @@
 <h1>Penetration-testing-and-Log-Analysis</h1>
 
 <h2>Description</h2>
-This Project shows detailed steps taken to set up a Honeypot using Microsoft Azure. After setting up TPot we made the virtual machine vulnerable to attackers then we gathered various data and they were analyzed and processed.  
+This is a Portfolio that shows a detailed explanation of how I performed penetration testing and log analysis this portfolio shows the step-by-step procedure taken to perform the penetration testing and Log analysis.  
 <br />
 
 <h2>Languages and Utilities Used</h2>
